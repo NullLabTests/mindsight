@@ -1,0 +1,1 @@
+# Python files\n*.py\n*.pyc\n__pycache__/\n*.pyo\n*.pyd\n# Virtual environment\nvenv/\nenv/\n# Build artifacts\n*.egg-info/\ndist/\nbuild/\n# Editor and OS files\n.vscode/\n.idea/\n*.swp\n.DS_Store
