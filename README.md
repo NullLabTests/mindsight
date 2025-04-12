@@ -15,7 +15,7 @@
 
 ## 📸 Demo
 
-![MindSight Visualization](docs/mindsight_example.gif)  
+![MindSight Visualization](SS.png)  
 *Above: MindSight learning to reach a goal and predicting its future actions over time.*
 
 ## 🛠 Installation
